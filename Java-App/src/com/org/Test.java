@@ -7,7 +7,7 @@ public class Test {
 	public static void main(String[] args) {
 		 User obj = new User();
 		 obj.run();
-		 System.out.println("The main app  Test");
+		 System.out.println("The main app running in  Test");
 	}
 
 }
